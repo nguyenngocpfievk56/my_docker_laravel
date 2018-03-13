@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/ngoc', function () {
-    return "Xin chao";
+    return "Xin chao cac ban";
 });
